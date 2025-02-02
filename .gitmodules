@@ -1,3 +1,6 @@
 [submodule "sub/repo"]
 	path = sub/repo
 	url = https://github.com/yourfavengineer/dest-repo.git
+[submodule "Gitopsproject"]
+	path = Gitopsproject
+	url = https://github.com/yourfavengineer/Gitopsproject.git
