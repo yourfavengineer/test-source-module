@@ -4,3 +4,6 @@
 [submodule "Gitopsproject"]
 	path = Gitopsproject
 	url = https://github.com/yourfavengineer/Gitopsproject.git
+[submodule "vprofile-project"]
+	path = vprofile-project
+	url = https://github.com/yourfavengineer/vprofile-project.git
