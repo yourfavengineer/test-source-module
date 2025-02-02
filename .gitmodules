@@ -7,3 +7,6 @@
 [submodule "vprofile-project"]
 	path = vprofile-project
 	url = https://github.com/yourfavengineer/vprofile-project.git
+[submodule "nebula-project"]
+	path = nebula-project
+	url = https://github.com/yourfavengineer/nebula-project.git
