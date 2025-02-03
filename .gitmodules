@@ -6,7 +6,7 @@
 	url = https://github.com/yourfavengineer/Gitopsproject.git
 [submodule "vprofile-project"]
 	path = vprofile-project
-	url = https://github.com/yourfavengineer/vprofile-project.git
+	url = https://github.com/devopsengineer007/new-vprofile-project.git
 [submodule "nebula-project"]
 	path = nebula-project
 	url = https://github.com/yourfavengineer/nebula-project.git
